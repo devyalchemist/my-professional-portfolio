@@ -287,7 +287,7 @@ nav {
 }
 /* @media (max-width: 400px) {
 } */
-@media (max-width: 400px) {
+@media (max-width: 480px) {
 	.img-con img {
 		object-fit: cover;
 		height: 70%;
@@ -476,7 +476,7 @@ nav {
 		font-size: 20px;
 	}
 }
-@media (max-width: 400px) {
+@media (max-width: 480px) {
 	.about-main h2 {
 		font-size: 60px;
 		line-height: 50px;
@@ -575,7 +575,7 @@ nav {
 .con-container {
 	padding: 50px;
 }
-@media (max-width: 400px) {
+@media (max-width: 480px) {
 	.con-container {
 		padding: 20px;
 	}
@@ -689,7 +689,7 @@ button {
 		display: none;
 	}
 }
-@media (max-width: 300px) {
+@media (max-width: 480px) {
 	.contact-head p {
 		font-size: 40px;
 	}
@@ -780,7 +780,7 @@ button {
 		width: 80%;
 	}
 }
-@media (max-width: 400px) {
+@media (max-width: 480px) {
 	.main-foot h1 {
 		font-size: 25px;
 	}
